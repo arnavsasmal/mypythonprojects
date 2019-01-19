@@ -1,3 +1,7 @@
+#This code asks the user for a name of a game and checks the dictionary for the game and prints the description as an output
+#It also gives the user an option to add games to the dictionary
+
+
 games = {"Fortnite": "A cartoonish Battle Royale game",
           "CSGO": "A fast paced First Person Shooter",
           "PUBG": "The original, more realistic Battle Royale",
